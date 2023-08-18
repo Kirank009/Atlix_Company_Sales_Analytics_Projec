@@ -1,4 +1,8 @@
-# Atlix_Company_Sales_Analytics_Projec
+# Atlix_Company_Sales_Analytics_Project
+
+<img width="689" alt="Screenshot 2023-08-18 101026" src="https://github.com/Kirank009/Atlix_Company_Sales_Analytics_Project/assets/126448871/016fdc53-a5c1-40c2-aa96-3c7a8ca54581">
+
+
 Implemented MySQL and Power BI to optimize sales analysis and reporting. Designed data transformations, executed complex queries, and built interactive Power BI dashboards for accurate insights and informed decision-making. Proficient in data analysis, and impactful visualization tools.
 
 Problem statement Mr. Bhavin Shah (Sales Director) at Atlix is not getting his sales data on time. The sales data given to him is not in a structured manner. As a result, he is unable to take any concrete and specific business decisions.
